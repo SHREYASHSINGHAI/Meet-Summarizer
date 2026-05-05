@@ -1,6 +1,4 @@
----
 **Developer:** Shreyash Singhai
----
 
 # 🎙️ Meet-Summarizer (Nexus Module)
 

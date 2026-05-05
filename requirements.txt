@@ -1,0 +1,8 @@
+streamlit
+groq
+openai-whisper
+notion-client
+requests
+python-dotenv
+pydub
+audioop-lts

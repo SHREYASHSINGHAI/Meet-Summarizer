@@ -1,6 +1,6 @@
 **Developer:** Shreyash Singhai
 
-# 🎙️ Meet-Summarizer (Nexus Module)
+# 🎙️ Meet-Summarizer
 
 **Meet-Summarizer** is a high-performance AI agent designed to bridge the gap between verbal communication and structured project management. Developed as a specialized module within the **Nexus** AI ecosystem, his tool automates the extraction of intelligence from meeting audio and synchronizes it across professional workspaces.
 

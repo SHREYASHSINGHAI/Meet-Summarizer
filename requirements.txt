@@ -1,6 +1,6 @@
 streamlit
 groq
-openai-whisper
+faster-whisper
 notion-client
 requests
 python-dotenv
